@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/local"
+    android:orientation="vertical"
+    tools:context=".profile">
+
+        <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="170dp"
+        android:src="@drawable/profile"
+        android:layout_marginTop="20dp" />
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer Name"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:fontFamily="@font/andika_new_basic"
+        android:paddingStart="25dp"
+        android:layout_marginTop="20dp"/>
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Customer cantact no"
+        android:textStyle="bold"
+        android:fontFamily="@font/andika_new_basic"
+        android:textSize="20dp"
+        android:paddingStart="25dp"/>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Business Name"
+        android:textStyle="bold"
+        android:fontFamily="@font/andika_new_basic"
+        android:textSize="20dp"
+        android:paddingStart="25dp"/>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Business mail"
+        android:textStyle="bold"
+        android:fontFamily="@font/andika_new_basic"
+        android:textSize="20dp"
+        android:paddingStart="25dp"/>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shop/Office address"
+        android:fontFamily="@font/andika_new_basic"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:paddingStart="25dp"/>
+
+        <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Other description"
+        android:fontFamily="@font/andika_new_basic"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:paddingStart="25dp"
+        android:paddingBottom="30dp"/>
+
+</LinearLayout>

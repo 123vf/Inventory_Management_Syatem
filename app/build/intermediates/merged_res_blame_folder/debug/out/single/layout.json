@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\product_details_cardview.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\product_details_cardview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\nav_header_main.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\customer_listview.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\customer_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_order_list.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_order_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\payment_listview.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\payment_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_customer_details.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_customer_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\content_main.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_product_btn.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_product_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_product.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_customer_btn.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_customer_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\app_bar_main.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_order.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_order.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_order_btn.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_order_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_customer.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_avaliable_stock.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_avaliable_stock.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\order_listview.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\order_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\product_listview.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\product_listview.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_payment_details.xml",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_payment_details.xml"
+    },
+    {
+        "merged": "com.example.inventorymanagementsystem.app-mergeDebugResources-55:/layout/activity_add_order.xml",
+        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/activity_add_order.xml"
+    }
+]

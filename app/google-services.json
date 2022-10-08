@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "148593623109",
+    "firebase_url": "https://inventory-management-sys-bd487-default-rtdb.firebaseio.com",
+    "project_id": "inventory-management-sys-bd487",
+    "storage_bucket": "inventory-management-sys-bd487.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148593623109:android:b008602879107868daa32c",
+        "android_client_info": {
+          "package_name": "com.example.inventorymanagementsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148593623109-gt8ou1gvrc63b3odvlkr93kunsll3uev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhZ585lhqp3Qvn_Z4BZPRWySUC9LMBBK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148593623109-gt8ou1gvrc63b3odvlkr93kunsll3uev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    android:elevation="6dp"
+    app:cardUseCompatPadding="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="15dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img2"
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@mipmap/ic_launcher"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"/>
+        <!--        app:civ_border_width="2dp"
+        app:civ_border_color="#FF000000"-->
+
+        <TextView
+            android:id="@+id/productNameTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Product Name"
+            android:textStyle="bold"
+            android:textSize="25sp"
+            android:textColor="#000"
+            android:layout_toRightOf="@+id/img2"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"/>
+
+        <TextView
+            android:id="@+id/productDiscTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Discription"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_toRightOf="@+id/img2"
+            android:layout_below="@+id/productNameTextView"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/productQuanTextView"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:text="Quantity"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_toRightOf="@+id/img2"
+            android:layout_below="@+id/productDiscTextView"
+            android:layout_marginLeft="10dp" />
+
+        <TextView
+            android:id="@+id/rupee"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="Rs."
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:gravity="right"
+            android:layout_toLeftOf="@+id/productPriceTextView"
+            android:layout_below="@+id/productDiscTextView" />
+
+        <TextView
+            android:id="@+id/productPriceTextView"
+            android:layout_width="50dp"
+            android:layout_height="wrap_content"
+            android:text="Price"
+            android:textSize="20sp"
+            android:textColor="#000"
+            android:layout_toRightOf="@+id/productQuanTextView"
+            android:layout_below="@+id/productDiscTextView" />
+
+
+    </RelativeLayout>
+
+</androidx.cardview.widget.CardView>
