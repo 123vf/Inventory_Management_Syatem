@@ -4,69 +4,56 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/local"
     android:orientation="vertical"
     tools:context=".profile">
+<!--        android:background="@drawable/local"-->
+
 
         <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="170dp"
-        android:src="@drawable/profile"
-        android:layout_marginTop="20dp" />
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:src="@drawable/prof"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:layout_marginBottom="40dp"/>
 
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Customer Name"
-        android:textSize="20dp"
-        android:textStyle="bold"
-        android:fontFamily="@font/andika_new_basic"
-        android:paddingStart="25dp"
-        android:layout_marginTop="20dp"/>
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Customer cantact no"
-        android:textStyle="bold"
-        android:fontFamily="@font/andika_new_basic"
-        android:textSize="20dp"
-        android:paddingStart="25dp"/>
 
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Business Name"
-        android:textStyle="bold"
-        android:fontFamily="@font/andika_new_basic"
-        android:textSize="20dp"
-        android:paddingStart="25dp"/>
+                <TextView
+                    android:id="@+id/txtEmail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Email Id :"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:fontFamily="@font/andika_new_basic"/>
 
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Business mail"
-        android:textStyle="bold"
-        android:fontFamily="@font/andika_new_basic"
-        android:textSize="20dp"
-        android:paddingStart="25dp"/>
+                <TextView
+                    android:id="@+id/txtEmailID"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="20dp"
+                    android:layout_marginLeft="20dp"
+                    android:fontFamily="@font/andika_new_basic"/>
 
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Shop/Office address"
-        android:fontFamily="@font/andika_new_basic"
-        android:textStyle="bold"
-        android:textSize="20dp"
-        android:paddingStart="25dp"/>
 
-        <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="Other description"
-        android:fontFamily="@font/andika_new_basic"
-        android:textStyle="bold"
-        android:textSize="20dp"
-        android:paddingStart="25dp"
-        android:paddingBottom="30dp"/>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="bottom">
 
+                <com.google.android.material.button.MaterialButton
+                    android:id="@+id/btnlogout"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Logout"
+                    android:textSize="15dp"
+                    android:layout_marginTop="10dp"
+                    app:backgroundTintMode="screen"
+                    android:background="@drawable/gradient"
+                    android:layout_gravity="right"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginBottom="40dp"/>
+
+        </LinearLayout>
 </LinearLayout>

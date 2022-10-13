@@ -16,12 +16,12 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\mipmap-mdpi\\ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_avaliable_stock.xml.flat",
-        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_avaliable_stock.xml"
-    },
-    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable-v24_textbox.xml.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable-v24\\textbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_avaliable_stock.xml.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_avaliable_stock.xml"
     },
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_forgot_password.xml.flat",
@@ -62,6 +62,10 @@
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.inventorymanagementsystem.app-merged_res-56:/layout_order_listview.xml.flat",
+        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/order_listview.xml"
     },
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_main.xml.flat",
@@ -112,10 +116,6 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\mipmap-mdpi\\ic_launcher_round.webp"
     },
     {
-        "merged": "com.example.inventorymanagementsystem.app-merged_res-56:/layout_activity_add_order.xml.flat",
-        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/activity_add_order.xml"
-    },
-    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable-v24_custimg.png.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable-v24\\custimg.png"
     },
@@ -148,6 +148,10 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_order_btn.xml"
     },
     {
+        "merged": "com.example.inventorymanagementsystem.app-merged_res-56:/layout_customer_listview.xml.flat",
+        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/customer_listview.xml"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable-v24_side_nav_bar.xml.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable-v24\\side_nav_bar.xml"
     },
@@ -170,6 +174,10 @@
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable-v24_inventory_management.png.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable-v24\\inventory_management.png"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_prof.png.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\prof.png"
     },
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_ic_launcher_background.xml.flat",
@@ -224,6 +232,10 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\ic_menu_exit.xml"
     },
     {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_img_2.png.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\img_2.png"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_fragment_slideshow.xml.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\fragment_slideshow.xml"
     },
@@ -264,6 +276,10 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_profile.xml"
     },
     {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_rounded_gradient.xml.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\rounded_gradient.xml"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_splash_screen.xml.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_splash_screen.xml"
     },
@@ -300,15 +316,23 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\main.png"
     },
     {
-        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_add_order.xml.flat",
-        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_order.xml"
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_gradient.xml.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\gradient.xml"
     },
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\mipmap-xxhdpi_ic_launcher.webp.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\mipmap-xxhdpi\\ic_launcher.webp"
     },
     {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_add_order.xml.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_order.xml"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\layout_activity_add_customer.xml.flat",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-merged_res-56:\\drawable_img_1.png.flat",
+        "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\drawable\\img_1.png"
     }
 ]

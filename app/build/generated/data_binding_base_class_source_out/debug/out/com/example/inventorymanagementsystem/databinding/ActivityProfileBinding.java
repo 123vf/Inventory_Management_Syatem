@@ -5,19 +5,36 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.LinearLayout;
+import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.viewbinding.ViewBinding;
+import androidx.viewbinding.ViewBindings;
 import com.example.inventorymanagementsystem.R;
+import com.google.android.material.button.MaterialButton;
 import java.lang.NullPointerException;
 import java.lang.Override;
+import java.lang.String;
 
 public final class ActivityProfileBinding implements ViewBinding {
   @NonNull
   private final LinearLayout rootView;
 
-  private ActivityProfileBinding(@NonNull LinearLayout rootView) {
+  @NonNull
+  public final MaterialButton btnlogout;
+
+  @NonNull
+  public final TextView txtEmail;
+
+  @NonNull
+  public final TextView txtEmailID;
+
+  private ActivityProfileBinding(@NonNull LinearLayout rootView, @NonNull MaterialButton btnlogout,
+      @NonNull TextView txtEmail, @NonNull TextView txtEmailID) {
     this.rootView = rootView;
+    this.btnlogout = btnlogout;
+    this.txtEmail = txtEmail;
+    this.txtEmailID = txtEmailID;
   }
 
   @Override
@@ -43,10 +60,31 @@ public final class ActivityProfileBinding implements ViewBinding {
 
   @NonNull
   public static ActivityProfileBinding bind(@NonNull View rootView) {
-    if (rootView == null) {
-      throw new NullPointerException("rootView");
-    }
+    // The body of this method is generated in a way you would not otherwise write.
+    // This is done to optimize the compiled bytecode for size and performance.
+    int id;
+    missingId: {
+      id = R.id.btnlogout;
+      MaterialButton btnlogout = ViewBindings.findChildViewById(rootView, id);
+      if (btnlogout == null) {
+        break missingId;
+      }
 
-    return new ActivityProfileBinding((LinearLayout) rootView);
+      id = R.id.txtEmail;
+      TextView txtEmail = ViewBindings.findChildViewById(rootView, id);
+      if (txtEmail == null) {
+        break missingId;
+      }
+
+      id = R.id.txtEmailID;
+      TextView txtEmailID = ViewBindings.findChildViewById(rootView, id);
+      if (txtEmailID == null) {
+        break missingId;
+      }
+
+      return new ActivityProfileBinding((LinearLayout) rootView, btnlogout, txtEmail, txtEmailID);
+    }
+    String missingId = rootView.getResources().getResourceName(id);
+    throw new NullPointerException("Missing required view with ID: ".concat(missingId));
   }
 }

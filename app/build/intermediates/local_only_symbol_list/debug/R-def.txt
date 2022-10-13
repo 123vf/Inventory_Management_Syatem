@@ -22,6 +22,7 @@ drawable avaliable_stock
 drawable background_edit
 drawable custimg
 drawable customer_details
+drawable gradient
 drawable home_btn
 drawable home_main
 drawable ic_add_customer
@@ -40,6 +41,7 @@ drawable local
 drawable main
 drawable order_list
 drawable payment_details
+drawable prof
 drawable profile
 drawable search_icon
 drawable side_nav_bar
@@ -51,11 +53,13 @@ id backtologintxt
 id btnAddCustomer
 id btnAddOrder
 id btnAddProduct
+id btnlogout
 id button10
 id button11
 id button6
 id button9
 id cna
+id conTextView
 id confpasswordtxt
 id contactTextView
 id customer
@@ -65,6 +69,7 @@ id customerImg
 id customerName
 id customerNameTextView2
 id drawer_layout
+id emaTextView
 id email
 id emailTextView
 id emailtxt
@@ -136,6 +141,8 @@ id textView
 id text_gallery
 id text_slideshow
 id toolbar
+id txtEmail
+id txtEmailID
 id username
 id usernametxt
 layout activity_add_customer

@@ -4,7 +4,7 @@
             "outputFile": "com.example.inventorymanagementsystem.app-mergeDebugResources-54:/values-w600dp-v13/values-w600dp-v13.xml",
             "map": [
                 {
-                    "source": "D:\\IMS2\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
+                    "source": "D:\\IMS2\\Inventory_Management_System\\app\\src\\main\\res\\values-w600dp\\dimens.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",

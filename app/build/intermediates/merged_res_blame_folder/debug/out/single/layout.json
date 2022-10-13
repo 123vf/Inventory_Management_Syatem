@@ -36,6 +36,10 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\fragment_home.xml"
     },
     {
+        "merged": "com.example.inventorymanagementsystem.app-mergeDebugResources-55:/layout/order_listview.xml",
+        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/order_listview.xml"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_add_product_btn.xml",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_add_product_btn.xml"
     },
@@ -96,6 +100,10 @@
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\product_listview.xml"
     },
     {
+        "merged": "com.example.inventorymanagementsystem.app-mergeDebugResources-55:/layout/customer_listview.xml",
+        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/customer_listview.xml"
+    },
+    {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_main.xml",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_main.xml"
     },
@@ -106,9 +114,5 @@
     {
         "merged": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-mergeDebugResources-55:\\layout\\activity_payment_details.xml",
         "source": "C:\\Users\\vishakha\\.gradle\\daemon\\7.3.3\\com.example.inventorymanagementsystem.app-main-58:\\layout\\activity_payment_details.xml"
-    },
-    {
-        "merged": "com.example.inventorymanagementsystem.app-mergeDebugResources-55:/layout/activity_add_order.xml",
-        "source": "com.example.inventorymanagementsystem.app-main-58:/layout/activity_add_order.xml"
     }
 ]
